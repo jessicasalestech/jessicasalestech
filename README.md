@@ -75,6 +75,9 @@ Meu diferencial: **combinar automação clássica (Playwright, Cypress, Robot Fr
 
 ## 📬 Vamos conversar?
 
-[![Email](https://img.shields.io/badge/Email-jessicasales.tech%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jessicasales.tech@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-jessicasalestech-181717?logo=github&logoColor=white)](https://github.com/jessicasalestech)
+<div align="center">
 
-_Disponível para oportunidades em **Qualidade de Software** e **Automação de Testes** — de requisito a produção. 🤝_
+[![Email](https://img.shields.io/badge/Email-jessicasales.tech%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jessicasales.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jessicasalesmelo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasalesmelo/)
+
+</div>
