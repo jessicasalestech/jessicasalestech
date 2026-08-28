@@ -9,8 +9,6 @@
 [![ISTQB CTFL](https://img.shields.io/badge/ISTQB-Certified%20Tester%20CTFL-6DA4F5?logo=checkmarx&logoColor=white)]()
 [![Inglês B1](https://img.shields.io/badge/Ingl%C3%AAs-B1%20(Pr%C3%A9--intermedi%C3%A1rio)-blue?logo=openbadges&logoColor=white)]()
 
-*“Transformando requisitos em qualidade — com automação robusta e, cada vez mais, com IA.”*
-
 ---
 
 </div>
@@ -66,7 +64,12 @@ Meu diferencial: **combinar automação clássica (Playwright, Cypress, Robot Fr
 
 ## 🎓 Formação & Certificações
 
-- 🏅 **ISTQB · Certified Tester Foundation Level (CTFL)**
+- 🏅 **ISTQB · Certified Tester Foundation Level (CTFL)** — *BSTQB · exame 19/05/2025 · ID 25-CTFL-14105-BR*
+
+  <p align="center">
+    <a href="assets/CTFL_jessica.pdf"><img alt="Certificação ISTQB CTFL" src="assets/ctfl-istqb.png" width="360"></a>
+  </p>
+
 - 🎓 **Bacharelado em Ciência da Computação** — Estácio *(cursando)*
 - 🎓 **Pós-graduação em Engenharia de Software** — Estácio
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade de Santo Amaro
