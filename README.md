@@ -64,18 +64,6 @@ Meu diferencial: **combinar automação clássica (Playwright, Cypress, Robot Fr
 
 ---
 
-## 💼 Experiência profissional
-
-| Período | Empresa | Destaque |
-|---|---|---|
-| 07/2025 – 07/2026 | **QA Engineer · ZUUP** *(cliente Copa Energia)* | Testes E2E em chatbot WhatsApp Business; integrações WhatsApp · SAP · Salesforce; gestão de defeitos no Azure |
-| 07/2023 – 07/2025 | **QA Engineer · Zup Innovation** *(cliente Itaú)* | **Liderança técnica** de testes de API p/ serviços bancários; automação com **Playwright, Cypress, Robot Framework e Rest Assured**; AWS (Lambda · SQS · SNS · DynamoDB); **IA no dia a dia (Copilot, Claude, Devin)** |
-| 03/2022 – 07/2023 | **QA Engineer · ACCT Global** | Qualidade em **VTEX CMS/IO**; testes funcionais, exploratórios e regressão; performance com **JMeter e Lighthouse** |
-| 11/2019 – 03/2022 | **QA Analyst · TEX** *(clientes AON, Honda, Volkswagen, Rodobens, Yamaha, Porto Seguro, Allianz, Liberty e outros)* | Testes de API, frontend e backend; automação web; integrações JSON/XML |
-| 11/2018 – 11/2019 | **Service Desk Analyst · Globalweb** *(cliente Suzano)* | Suporte com práticas ITIL; gestão de acessos corporativos |
-
----
-
 ## 🎓 Formação & Certificações
 
 - 🏅 **ISTQB · Certified Tester Foundation Level (CTFL)**
