@@ -5,6 +5,8 @@
 ### **QA Engineer** · Test Automation · End-to-End Software Quality
 #### São Paulo, Brazil 🇧🇷
 
+[![🇺🇸 English](https://img.shields.io/badge/English-blue?style=plastic&logo=openbadges&logoColor=white)](README.md)  [![🇧🇷 Português](https://img.shields.io/badge/Portugu%C3%AAs-green?style=plastic&logo=openbadges&logoColor=white)](README-pt-BR.md)
+
 [![Email](https://img.shields.io/badge/Email-jessicasales.tech%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jessicasales.tech@gmail.com)
 [![ISTQB CTFL](https://img.shields.io/badge/ISTQB-Certified%20Tester%20CTFL-6DA4F5?logo=checkmarx&logoColor=white)]()
 [![English B1](https://img.shields.io/badge/English-B1%20(Pre--intermediate)-blue?logo=openbadges&logoColor=white)]()
