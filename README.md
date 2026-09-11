@@ -60,6 +60,54 @@ My differentiator: **combining classic automation (Playwright, Cypress, Robot Fr
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏗️ spring-boot-microservices</h3>
+      <p align="center"><b>Microservices</b> — Java 21 + Spring Boot 3.4, API Gateway, service-per-db, REST inter-service calls · 53 tests / green CI</p>
+      <p align="center">
+        <a href="https://github.com/jessicasalestech/spring-boot-microservices">🔗 View repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🖥️ angular-spring-boot-fullstack</h3>
+      <p align="center"><b>Full-stack</b> — Angular 20 + Spring Boot 3.5, REST CRUD, JaCoCo + headless Angular tests · 48 tests / green CI</p>
+      <p align="center">
+        <a href="https://github.com/jessicasalestech/angular-spring-boot-fullstack">🔗 View repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐍 python-fastapi-inventory-api</h3>
+      <p align="center"><b>Python / API</b> — FastAPI + SQLAlchemy inventory REST API with a parametrized pytest suite · 19 tests / green CI</p>
+      <p align="center">
+        <a href="https://github.com/jessicasalestech/python-fastapi-inventory-api">🔗 View repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 observability-monitoring-stack</h3>
+      <p align="center"><b>Observability</b> — Prometheus + Grafana + Loki, RED dashboards, alert rules and a docker-compose stack</p>
+      <p align="center">
+        <a href="https://github.com/jessicasalestech/observability-monitoring-stack">🔗 View repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧷 odoo-selenium-e2e</h3>
+      <p align="center"><b>Selenium + ERP</b> — Python + Selenium + pytest + POM against the open-source Odoo ERP (Docker in CI) · 20 tests / green CI</p>
+      <p align="center">
+        <a href="https://github.com/jessicasalestech/odoo-selenium-e2e">🔗 View repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 databricks-pyspark-etl</h3>
+      <p align="center"><b>Data / Engineering</b> — Databricks medallion (bronze→silver→gold) ETL in PySpark · 9 tests / green CI</p>
+      <p align="center">
+        <a href="https://github.com/jessicasalestech/databricks-pyspark-etl">🔗 View repository</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
